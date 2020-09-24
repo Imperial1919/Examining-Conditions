@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\bin\Debug\netcoreapp3.1\TernaryOperatorPractice.exe
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\bin\Debug\netcoreapp3.1\TernaryOperatorPractice.deps.json
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\bin\Debug\netcoreapp3.1\TernaryOperatorPractice.runtimeconfig.json
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\bin\Debug\netcoreapp3.1\TernaryOperatorPractice.runtimeconfig.dev.json
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\bin\Debug\netcoreapp3.1\TernaryOperatorPractice.dll
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\bin\Debug\netcoreapp3.1\TernaryOperatorPractice.pdb
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\obj\Debug\netcoreapp3.1\TernaryOperatorPractice.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\obj\Debug\netcoreapp3.1\TernaryOperatorPractice.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\obj\Debug\netcoreapp3.1\TernaryOperatorPractice.AssemblyInfo.cs
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\obj\Debug\netcoreapp3.1\TernaryOperatorPractice.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\obj\Debug\netcoreapp3.1\TernaryOperatorPractice.dll
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\obj\Debug\netcoreapp3.1\TernaryOperatorPractice.pdb
+C:\Users\owner\source\repos\TernaryOperatorPractice\TernaryOperatorPractice\obj\Debug\netcoreapp3.1\TernaryOperatorPractice.genruntimeconfig.cache
