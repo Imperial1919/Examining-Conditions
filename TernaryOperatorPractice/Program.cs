@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices.ComTypes;
 
 namespace TernaryOperatorPractice
 {
@@ -30,7 +31,8 @@ namespace TernaryOperatorPractice
             bool classiccarsinstock = true;
 
             var firstsale = (carsareavalible == true) ? "Ok, so We do have some cars out back, cannot assure you in regards to classic cars, but \n We DO have some cars open for purchase." : "Sorry Sir/Ma'am, At this present moment we lack anything in stock, please return later.";
-            Console.WriteLine("Welcome to Bryce' Automotive Emperorium, where We upkeep and maintain exotic cars from all eras, past or new. If you are interested in buying anything from us, please type in y or n as single characters please.");
+            var secondsale = (classiccarsinstock == true) ? "We even have some classics in stock today! Today is quite lucky for You!" : "Sorry, nothin's avalible in terms of classic cars.";
+            Console.WriteLine("Welcome to Bryce' Automotive Emperorium, where We upkeep and maintain exotic cars from all eras, past or new.\n \nIf you are interested in buying anything from us, please type in y or n as single characters please. However,if You are interested in our vintage vehicle fleet, type in 'classic' as a whole, without capitalization.");
             string userinput = Console.ReadLine();
 
             if (userinput == "y")
@@ -38,9 +40,15 @@ namespace TernaryOperatorPractice
                 Console.WriteLine(firstsale);
             }
 
-            else if  (userinput == "n")
+            else if (userinput == "n")
             {
                 Console.WriteLine("Ok then, have a nice day and thanks for wasting Our time! :D");
+            }
+
+
+            else if (userinput == "classic")
+            {
+                Console.WriteLine("Alright then, Let's see if We have anything in stock." + "\n" + secondsale );
             }
 
             else
